@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_full_instrument
 data_stream: CE07SHSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_full_instrument
 end_date: '2017-12-22T19:00:30.221Z'
-last_updated: '2021-09-18T03:15:41.894309Z'
+last_updated: '2021-09-18T03:21:41.984200'
 start_date: '2016-09-20T23:00:34.023Z'
-status: pending
+status: success
